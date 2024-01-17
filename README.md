@@ -1,1 +1,1 @@
-# bookbot
+# bookbot is a Boot.dev project
